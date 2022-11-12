@@ -1,0 +1,1 @@
+In comprasion to the decision tree implemantation we see that the decision tree classification had a higher accuracy as compared to the KNN,we had an accuracy of 0.9595 which is 95.95% for the decision tree and 84.78% for the KNN. Hence we can conclude that that a decision tree is the best classication algorithim to use for these specific dataset.
